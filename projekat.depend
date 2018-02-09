@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1518079380 source:c:\documents and settings\wp\my documents\projekat\main.cpp
+	<tchar.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	"resource.h"
+	"const.h"
+	"xox.h"
+	"memory.h"
+	"snake.h"
+	"simons.h"
+	"hangman.h"
+	"minesweeper.h"
+	"box.h"
+	"hilo.h"
+	"con4.h"
+	"bingo.h"
+	"paragon.h"
+	"frankTheLovingTank.h"
+
+1518071793 c:\documents and settings\wp\my documents\projekat\const.h
+
+1515846501 c:\documents and settings\wp\my documents\projekat\xox.h
+	<vector>
+
+1517146672 c:\documents and settings\wp\my documents\projekat\memory.h
+	<vector>
+	<algorithm>
+	<array>
+	<random>
+
+1517148242 c:\documents and settings\wp\my documents\projekat\snake.h
+	<vector>
+
+1517167724 c:\documents and settings\wp\my documents\projekat\simons.h
+
+1518044174 c:\documents and settings\wp\my documents\projekat\hangman.h
+	"gdiplus.h"
+
+1517161239 c:\documents and settings\wp\my documents\projekat\minesweeper.h
+
+1517263459 c:\documents and settings\wp\my documents\projekat\box.h
+
+1517321880 c:\documents and settings\wp\my documents\projekat\hilo.h
+
+1517409395 c:\documents and settings\wp\my documents\projekat\con4.h
+	<iostream>
+
+1518046915 c:\documents and settings\wp\my documents\projekat\bingo.h
+	<string>
+	<vector>
+
+1515602026 c:\documents and settings\wp\my documents\projekat\resource.h
+
+1518045466 c:\documents and settings\wp\my documents\projekat\paragon.h
+	<tchar.h>
+	<windows.h>
+	"nemesisObject.h"
+	"playerObject.h"
+	"constants.h"
+	<sstream>
+
+1518045465 c:\documents and settings\wp\my documents\projekat\nemesisobject.h
+	"vector2D.h"
+	<iostream>
+	<vector>
+	"ammo.h"
+	"constants.h"
+
+1518045468 c:\documents and settings\wp\my documents\projekat\vector2d.h
+	<iostream>
+	<math.h>
+	"vector2D.h"
+
+1518045459 c:\documents and settings\wp\my documents\projekat\ammo.h
+	"vector2D.h"
+	<string>
+	"constants.h"
+
+1518045462 c:\documents and settings\wp\my documents\projekat\constants.h
+
+1518045467 c:\documents and settings\wp\my documents\projekat\playerobject.h
+	"vector2D.h"
+	<iostream>
+	"ammo.h"
+	<vector>
+
+1518047071 source:c:\documents and settings\wp\my documents\projekat\resource.rc
+	"resource.h"
+
+1518042373 c:\documents and settings\wp\my documents\projekat\par.h
+	<iostream>
+	<math.h>
+	<vector>
+
+1518045229 c:\documents and settings\wp\my documents\projekat\praviparagon.h
+	"par.h"
+
+1518078535 c:\documents and settings\wp\my documents\projekat\frankthelovingtank.h
+	"tankObject.h"
+	"soldierObject.h"
+	"constantsTank.h"
+
+1518075944 c:\documents and settings\wp\my documents\projekat\tankobject.h
+	"constantsTank.h"
+	"ft/vector2D.h"
+
+1518075781 c:\documents and settings\wp\my documents\projekat\constantstank.h
+	<iostream>
+	"tankObject.h"
+	"ft/vector2D.h"
+	"obstacle.h"
+	<vector>
+
+1518071542 c:\documents and settings\wp\my documents\projekat\ft\vector2d.h
+	<iostream>
+	<math.h>
+	"vector2D.h"
+
+1518071542 c:\documents and settings\wp\my documents\projekat\obstacle.h
+
+1518076037 c:\documents and settings\wp\my documents\projekat\soldierobject.h
+	"ft/vector2D.h"
+	"constantsTank.h"
+

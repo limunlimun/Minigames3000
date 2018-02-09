@@ -1,0 +1,21 @@
+#include "resource.h"
+IDI_ICON1               ICON                    "wicon.ico"
+MENI MENU
+BEGIN
+    POPUP "&Igra"
+    BEGIN
+        MENUITEM "&Reset", RESET
+        MENUITEM "&Vrati nazad", VRATINAZAD
+    END
+    POPUP "&Opcije"
+    BEGIN
+        POPUP "&Tezina"
+        BEGIN
+            MENUITEM "&Lagano", LAGANO
+            MENUITEM "&Srednje", SREDNJE
+            MENUITEM "T&esko", TESKO
+        END
+        MENUITEM "S&ingle", SINGLE
+        MENUITEM "&Versus", VERSUS
+    END
+END

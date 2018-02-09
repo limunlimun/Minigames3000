@@ -1,0 +1,20 @@
+﻿Minigames3000 predstavlja zavrsni projekat studenata Besic Ferida i Catovic Anera (Heavy Brotherhood Production).
+Ovaj projekat je zamisljen kao bundle mini-igrica koje su implementirane u C++ programskom jeziku uz podrsku Windows API-ja.
+
+Sadrzi igrice uz koje mozete predahnuti kada ste umorni ili se zabaviti sa drustvom.
+Nadamo se da ce Vam se svidjeti. 
+
+HELP and ABOUT
+XOX -> moguce igrati i u single i u versus mode-u; sve akcije se izvode lijevim tasterom miša
+memory -> moguce je odabrati tezinu igrice; sve akcije se izvode lijevim tasterom miša
+space invader -> svojim brodom upravljate strelicama tastature a metke ispaljujete tasterom SPACE
+snake -> moguce je odabrati tezinu (brzinu) igre, snake-om se upravlja strelicama tastature
+simon says -> potrebno je ponoviti zadanu sekvencu boja koja postaje duza za 1 svakim novim levelom
+the hangman -> poznata igra tzv "vjesala", slova se unose sa tastature i obavezno ukljuciti CAPS-LOCK
+minesweeper -> lijevi taster sluzi za otvaranje polja a desni za oznacavanje mina
+what's in the box? -> pokusajte na srecu pogoditi sadrzaj kutije
+high or low? -> poznata kasino igra "vece-manje"
+bingo -> odaberite 6 brojeva,neku od boja ili random i okusajte srecu
+connect4 -> pokusajte spojiti 4 kruzica u bilo kojem smjeru(moguce i dijagonalno)
+BONUS GAME -> postoji i bonus igra koju morate sami pronaci :)
+
